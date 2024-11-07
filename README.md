@@ -1,5 +1,9 @@
-### The simulations/files uploaded here are the results obtained after the execution of codes in the Monte Carlo Markov Chain lab, which is taught as a part of the Numerical lab at the University Observatory, Munich (Department of Physics, Ludwig Maximilian University of Munich)
+### All the files/simulations uploaded here are the output of the N-body lab taught at the Department of Physics, Ludwig Maximilian University of Munich (Universitäts-Sternwarte München (USM, University Observatory Munich))(Department of Physics, Ludwig Maximilian University of Munich)
 
-This Lab is Concerned with N-body simulations taught by Prof. Klaus Dolag at the University Observatory, LMU, Munich.
 
+
+The simulations uploaded here are Concerned with the N-body lab taught by Prof. Klaus Dolag at the Universitäts-Sternwarte München (USM, University Observatory Munich)
 https://www.usm.uni-muenchen.de/~puls/lessons/numpraktnew/nbody/nbody_manual.pdf
+
+About the Numerical lab: 
+https://www.usm.uni-muenchen.de/Lehre/Lehrveranstaltungen/Praktikum/anleitungen.php
