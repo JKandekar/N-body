@@ -1,9 +1,7 @@
-### All the files/simulations uploaded here are the output of the N-body lab taught at the Department of Physics, Ludwig Maximilian University of Munich (Universitäts-Sternwarte München (USM, University Observatory Munich))(Department of Physics, Ludwig Maximilian University of Munich)
+### All the simulations and files shared here are the results of the N-body lab, which is part of the Numerical/Computational Lab taught at the Universitäts-Sternwarte München/USM, Department of Physics, Ludwig Maximilian University of Munich.
 
-
-
-The simulations uploaded here are Concerned with the N-body lab taught by Prof. Klaus Dolag at the Universitäts-Sternwarte München (USM, University Observatory Munich)
+The simulations presented here pertain to the N-body lab instructed by Prof. Klaus Dolag at the Universitäts-Sternwarte München (USM, University Observatory Munich).  
 https://www.usm.uni-muenchen.de/~puls/lessons/numpraktnew/nbody/nbody_manual.pdf
 
-About the Numerical lab: 
+Information about the Numerical lab can be found here:  
 https://www.usm.uni-muenchen.de/Lehre/Lehrveranstaltungen/Praktikum/anleitungen.php
